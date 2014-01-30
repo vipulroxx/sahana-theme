@@ -11,7 +11,9 @@ sahana-theme
 <script type='text/javascript' src='pace.js'></script>
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252" />
 <title>Sahana Eden</title>
- <link rel="shortcut icon" href="https://lh5.googleusercontent.com/lDJkuAX1qmoPJowSddpZT8nMeUyMkhZn5kY1sc9XiK2ZiWGvn-nH_O0fYLHsqWE0__-Qcr1bfRo">
+ <link rel="shortcut icon" 
+
+href="https://lh5.googleusercontent.com/lDJkuAX1qmoPJowSddpZT8nMeUyMkhZn5kY1sc9XiK2ZiWGvn-nH_O0fYLHsqWE0__-Qcr1bfRo">
 <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 <body>
@@ -22,14 +24,20 @@ You can provide too, the simplest way is to <a href="file:///C:/WINDOWS/VIPUL/by
 </div>
 <div id="main_container">
 	<div class="header">
-    	<div id="logo"><img src="http://demo.eden.sahanafoundation.org/eden/static/img/S3menu_logo.png" height="100px" width="100px" border="0" alt="" title="" /></div>       
+    	<div id="logo"><img src="http://demo.eden.sahanafoundation.org/eden/static/img/S3menu_logo.png" height="100px" 
+
+width="100px" border="0" alt="" title="" /></div>       
     </div>
         <div class="menu">
         	<ul>                                                                         
         		<li class="selected"><a href="#" onClick="transparent()";>Home</a></li>
-                <li><a id="a" href="file:///C:/WINDOWS/VIPUL/by%20me/themes/Sahana%20Eden%20Theme/hospitals.html">Hospitals</a></li>
+                <li><a id="a" 
+
+href="file:///C:/WINDOWS/VIPUL/by%20me/themes/Sahana%20Eden%20Theme/hospitals.html">Hospitals</a></li>
                 <li><a id="b" href="#">Help/Resources</a></li>
-                <li><a id="c" href="file:///C:/WINDOWS/VIPUL/by%20me/themes/Sahana%20Eden%20Theme/newperson.html#">People</a></li>
+                <li><a id="c" 
+
+href="file:///C:/WINDOWS/VIPUL/by%20me/themes/Sahana%20Eden%20Theme/newperson.html#">People</a></li>
                 <li><a id="d" href="#">Warehouse</a></li>
                 <li><a id="e" href="#">Assets</a></li>
                 <li><a id="f" href="#">Maps</a></li>
@@ -52,10 +60,18 @@ Here is the given news that will be updated...............
             <div class="title">Facilities</div>
             
                     <ul class="list">
-                    <li><span>1</span><a href="file:///C:/WINDOWS/VIPUL/by%20me/themes/Sahana%20Eden%20Theme/hospitals.html">Hospitals</a></li>
-                    <li><span>2</span><a href="file:///C:/WINDOWS/VIPUL/by%20me/themes/Sahana%20Eden%20Theme/hospitals.html">Offices</a></li>
-                    <li><span>3</span><a href="file:///C:/WINDOWS/VIPUL/by%20me/themes/Sahana%20Eden%20Theme/hospitals.html">Shelter</a></li>
-                    <li><span>4</span><a href="file:///C:/WINDOWS/VIPUL/by%20me/themes/Sahana%20Eden%20Theme/hospitals.html">Shelters</a></li>
+                    <li><span>1</span><a 
+
+href="file:///C:/WINDOWS/VIPUL/by%20me/themes/Sahana%20Eden%20Theme/hospitals.html">Hospitals</a></li>
+                    <li><span>2</span><a 
+
+href="file:///C:/WINDOWS/VIPUL/by%20me/themes/Sahana%20Eden%20Theme/hospitals.html">Offices</a></li>
+                    <li><span>3</span><a 
+
+href="file:///C:/WINDOWS/VIPUL/by%20me/themes/Sahana%20Eden%20Theme/hospitals.html">Shelter</a></li>
+                    <li><span>4</span><a 
+
+href="file:///C:/WINDOWS/VIPUL/by%20me/themes/Sahana%20Eden%20Theme/hospitals.html">Shelters</a></li>
                     </ul> 
          </div> 
          
@@ -83,12 +99,16 @@ Here is the given news that will be updated...............
                             </div>
                             
                             <div class="login_form_row">
-                            <label class="login_label">Password:</label><input type="password" name="pass" class="login_input" />
+                            <label class="login_label">Password:</label><input type="password" name="pass" 
+
+class="login_input" />
                             </div>                                     
                             <input type="image" src="images/login.gif" class="login" />                              
                         
                         </div>
-                        <li><a href="file:///C:/WINDOWS/VIPUL/by%20me/themes/sign%20up%20form.htm">Create new account</a></li>                        <div class="testimonials">
+                        <li><a href="file:///C:/WINDOWS/VIPUL/by%20me/themes/sign%20up%20form.htm">Create new 
+
+account</a></li>                        <div class="testimonials">
                         	<div class="title">Other info</div>
                             <div class="text_box">
                              <p class="testimonial">
