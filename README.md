@@ -1,6 +1,6 @@
 sahana-theme
 ============
-/*put html tag in front/*
+</html>
 <head>
 <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js?ver=1.7.2'></script>
 <script type='text/javascript' src='pace.js'></script>
@@ -137,10 +137,9 @@ account</a></li>                        <div class="testimonials">
 
  
 </body>
-
-    
+</html>
     
     
 </div>
 </body>
-
+</html>
